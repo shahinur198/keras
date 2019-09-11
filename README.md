@@ -5,4 +5,6 @@
 ```
 pip install tensorflow
 pip install keras
+
+pip install "numpy<1.17"
 ```
