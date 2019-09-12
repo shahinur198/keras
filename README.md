@@ -15,3 +15,8 @@ https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 https://keras.io/layers/about-keras-layers/
+# Regularization
+https://www.youtube.com/watch?v=iuJgyiS7BKM
+
+# batchnormalization keras
+https://www.youtube.com/watch?v=dXB-KQYkzNU
