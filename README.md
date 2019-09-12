@@ -11,3 +11,5 @@ pip install "numpy<1.17"
 https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
 https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
