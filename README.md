@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=iuJgyiS7BKM
 
 # batchnormalization keras
 https://www.youtube.com/watch?v=dXB-KQYkzNU
+
+# Keras model save and load
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
