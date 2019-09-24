@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=dXB-KQYkzNU
 
 # Keras model save and load
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+
+# Feature Extraction
+https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/
