@@ -7,6 +7,11 @@ pip install tensorflow
 pip install keras
 
 pip install "numpy<1.17"
+
+pip3 install keras==2.2.4
+pip3 install tensorflow-gpu==1.14.0
+pip3 install numpy==1.16
+
 ```
 https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
